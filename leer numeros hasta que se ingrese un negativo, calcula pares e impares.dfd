@@ -1,0 +1,75 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+number
+1
+0
+5
+pares
+1
+0
+7
+impares
+1
+0
+4
+1
+163
+'Programa que lea numeros por teclado, 
+hasta que se ingrese un valor negativo.
+Se pide que determine cantidad de impares y pares leidos.
+El cero no se cuenta.'
+9
+1
+11
+number >= 0
+4
+1
+28
+'Ingresa un numero entero: '
+5
+1
+6
+number
+7
+0
+1
+32
+number mod 2 = 0 and number != 0
+13
+6
+1
+5
+pares
+9
+pares + 1
+13
+7
+0
+1
+16
+number mod 2 = 1
+13
+6
+1
+7
+impares
+11
+impares + 1
+13
+11
+4
+1
+56
+'La cantidad de numeros pares ingresados es de: ', pares
+4
+1
+60
+'La cantidad de numeros impares ingresados es de: ', impares
+1
